@@ -5,5 +5,5 @@
 Para rodar este projeto em sua máquina, digite:
 
 ```
-apt-get install teste
+node app.js
 ```
